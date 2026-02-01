@@ -1,9 +1,10 @@
 ## Welcome! 👋
 
-I'm Makgregor, a Junior Backend Developer based in Brazil
-My main tech is python.
-I'm currently working on my github portfolio
+I'm Makgregor, a Junior Backend Developer based in Brazil.  
+My main tech is Python.  
+I'm currently working on my GitHub portfolio.  
 Feel free to check out my projects and connect with me!
+
 
 
 <!--
